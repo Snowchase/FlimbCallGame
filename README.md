@@ -1,2 +1,2 @@
 # FlimbCallGame
-2D test game
+2D Platformer
